@@ -1,3 +1,5 @@
 Hal yang dibuat :
 Buat database terlebih dahulu
 Menggunakan codeigniter
+membuat model 
+membuat view
