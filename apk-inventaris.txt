@@ -1,0 +1,3 @@
+Hal yang dibuat :
+Buat database terlebih dahulu
+Menggunakan codeigniter
